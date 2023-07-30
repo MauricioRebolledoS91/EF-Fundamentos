@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mauricio\\Downloads\\ef-core-6-fundamentals\\M08 Interacting with Related Data\\After\\PublisherConsole\\PublisherConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mauricio\\Downloads\\ef-core-6-fundamentals\\M08 Interacting with Related Data\\After\\PublisherConsole\\PublisherConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mauricio\\Downloads\\ef-core-6-fundamentals\\M08 Interacting with Related Data\\After\\PublisherConsole\\PublisherConsole.csproj",
+        "projectName": "PublisherConsole",
+        "projectPath": "C:\\Users\\mauricio\\Downloads\\ef-core-6-fundamentals\\M08 Interacting with Related Data\\After\\PublisherConsole\\PublisherConsole.csproj",
+        "packagesPath": "C:\\Users\\mauricio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mauricio\\Downloads\\ef-core-6-fundamentals\\M08 Interacting with Related Data\\After\\PublisherConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mauricio\\Downloads\\ef-core-6-fundamentals\\M08 Interacting with Related Data\\After\\PublisherData\\PublisherData.csproj": {
+                "projectPath": "C:\\Users\\mauricio\\Downloads\\ef-core-6-fundamentals\\M08 Interacting with Related Data\\After\\PublisherData\\PublisherData.csproj"
+              },
+              "C:\\Users\\mauricio\\Downloads\\ef-core-6-fundamentals\\M08 Interacting with Related Data\\After\\PublisherDomain\\PublisherDomain.csproj": {
+                "projectPath": "C:\\Users\\mauricio\\Downloads\\ef-core-6-fundamentals\\M08 Interacting with Related Data\\After\\PublisherDomain\\PublisherDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mauricio\\Downloads\\ef-core-6-fundamentals\\M08 Interacting with Related Data\\After\\PublisherData\\PublisherData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mauricio\\Downloads\\ef-core-6-fundamentals\\M08 Interacting with Related Data\\After\\PublisherData\\PublisherData.csproj",
+        "projectName": "PublisherData",
+        "projectPath": "C:\\Users\\mauricio\\Downloads\\ef-core-6-fundamentals\\M08 Interacting with Related Data\\After\\PublisherData\\PublisherData.csproj",
+        "packagesPath": "C:\\Users\\mauricio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mauricio\\Downloads\\ef-core-6-fundamentals\\M08 Interacting with Related Data\\After\\PublisherData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\mauricio\\Downloads\\ef-core-6-fundamentals\\M08 Interacting with Related Data\\After\\PublisherDomain\\PublisherDomain.csproj": {
+                "projectPath": "C:\\Users\\mauricio\\Downloads\\ef-core-6-fundamentals\\M08 Interacting with Related Data\\After\\PublisherDomain\\PublisherDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mauricio\\Downloads\\ef-core-6-fundamentals\\M08 Interacting with Related Data\\After\\PublisherDomain\\PublisherDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mauricio\\Downloads\\ef-core-6-fundamentals\\M08 Interacting with Related Data\\After\\PublisherDomain\\PublisherDomain.csproj",
+        "projectName": "PublisherDomain",
+        "projectPath": "C:\\Users\\mauricio\\Downloads\\ef-core-6-fundamentals\\M08 Interacting with Related Data\\After\\PublisherDomain\\PublisherDomain.csproj",
+        "packagesPath": "C:\\Users\\mauricio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mauricio\\Downloads\\ef-core-6-fundamentals\\M08 Interacting with Related Data\\After\\PublisherDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mauricio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

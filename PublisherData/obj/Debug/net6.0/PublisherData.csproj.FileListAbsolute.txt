@@ -1,0 +1,17 @@
+C:\Users\mauricio\Downloads\ef-core-6-fundamentals\M08 Interacting with Related Data\After\PublisherData\bin\Debug\net6.0\PublisherData.deps.json
+C:\Users\mauricio\Downloads\ef-core-6-fundamentals\M08 Interacting with Related Data\After\PublisherData\bin\Debug\net6.0\PublisherData.runtimeconfig.json
+C:\Users\mauricio\Downloads\ef-core-6-fundamentals\M08 Interacting with Related Data\After\PublisherData\bin\Debug\net6.0\PublisherData.dll
+C:\Users\mauricio\Downloads\ef-core-6-fundamentals\M08 Interacting with Related Data\After\PublisherData\bin\Debug\net6.0\PublisherData.pdb
+C:\Users\mauricio\Downloads\ef-core-6-fundamentals\M08 Interacting with Related Data\After\PublisherData\bin\Debug\net6.0\PublisherDomain.dll
+C:\Users\mauricio\Downloads\ef-core-6-fundamentals\M08 Interacting with Related Data\After\PublisherData\bin\Debug\net6.0\PublisherDomain.pdb
+C:\Users\mauricio\Downloads\ef-core-6-fundamentals\M08 Interacting with Related Data\After\PublisherData\obj\Debug\net6.0\PublisherData.csproj.AssemblyReference.cache
+C:\Users\mauricio\Downloads\ef-core-6-fundamentals\M08 Interacting with Related Data\After\PublisherData\obj\Debug\net6.0\PublisherData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauricio\Downloads\ef-core-6-fundamentals\M08 Interacting with Related Data\After\PublisherData\obj\Debug\net6.0\PublisherData.AssemblyInfoInputs.cache
+C:\Users\mauricio\Downloads\ef-core-6-fundamentals\M08 Interacting with Related Data\After\PublisherData\obj\Debug\net6.0\PublisherData.AssemblyInfo.cs
+C:\Users\mauricio\Downloads\ef-core-6-fundamentals\M08 Interacting with Related Data\After\PublisherData\obj\Debug\net6.0\PublisherData.csproj.CoreCompileInputs.cache
+C:\Users\mauricio\Downloads\ef-core-6-fundamentals\M08 Interacting with Related Data\After\PublisherData\obj\Debug\net6.0\PublisherData.csproj.CopyComplete
+C:\Users\mauricio\Downloads\ef-core-6-fundamentals\M08 Interacting with Related Data\After\PublisherData\obj\Debug\net6.0\PublisherData.dll
+C:\Users\mauricio\Downloads\ef-core-6-fundamentals\M08 Interacting with Related Data\After\PublisherData\obj\Debug\net6.0\refint\PublisherData.dll
+C:\Users\mauricio\Downloads\ef-core-6-fundamentals\M08 Interacting with Related Data\After\PublisherData\obj\Debug\net6.0\PublisherData.pdb
+C:\Users\mauricio\Downloads\ef-core-6-fundamentals\M08 Interacting with Related Data\After\PublisherData\obj\Debug\net6.0\PublisherData.genruntimeconfig.cache
+C:\Users\mauricio\Downloads\ef-core-6-fundamentals\M08 Interacting with Related Data\After\PublisherData\obj\Debug\net6.0\ref\PublisherData.dll
